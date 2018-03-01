@@ -1,0 +1,10 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Distributed Medical Device
+${licensePrefix} Senior Project - Team A
+${licensePrefix} Nicholas Moss, Aaron Neff, Matthew Smith
+${licensePrefix} DeVry University - 2007
+<#if licenseLast??>
+${licenseLast}
+</#if>
